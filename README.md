@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frontend and Backend Web programming as well as Machine Learning using Python**
 
-- 👨‍💻 All of my projects are available at [Scroll down](Scroll down)
-
 - 📫 How to reach me **soujanya8736@gmail.com**
 
 - ⚡ Fun fact: **The word "Code" isn't a palindrome :)**
