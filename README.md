@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact: **The word "Code" isn't a palindrome :)**
 
-- ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/soujanya957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soujanya957" height="30" width="40" /></a>
