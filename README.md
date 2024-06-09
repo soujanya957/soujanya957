@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
 <h3 align="center">A passionate programmer from Nepal</h3>
 
-- 🔭 I’m currently working on **Web projects**
+- 🔭 I’m currently working on **IOS Applications** and **Computer Graphics**
 
-- 🌱 I’m currently learning **Frontend and Backend Web programming as well as Machine Learning using Python**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 📫 How to reach me **soujanya8736@gmail.com**
-
-- ⚡ Fun fact: **The word "Code" isn't a palindrome :)**
+- 📫 How to reach me **qsoujanya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
